@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="console_bg">#1A1A1A</color>
+    <color name="console_text">#00FF00</color>
+    <color name="scanbutton">#ffff00</color>
+
 </resources>
