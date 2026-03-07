@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FC_006</string>
+    <string name="scan_asteroids">Scan for Asteroids</string>
+    <string name="status_idle">Awaiting scan.</string>
+    <string name="asteroid_name_label">Asteroid Name:</string>
+    <string name="asteroid_hazard_label">Potentially Hazardous:</string>
+    <string name="asteroid_distance_label">Distance from Earth (km):</string>
 </resources>
