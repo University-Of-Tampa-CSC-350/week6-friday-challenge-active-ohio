@@ -36,8 +36,7 @@ class MainActivity : AppCompatActivity() {
         val distanceText = findViewById<TextView>(R.id.asteroidDistanceValue)
 
         scanButton.setOnClickListener {
-            // Replace "DEMO_KEY" with your actual NASA API Key if you have one
-            viewModel.scanForAsteroids("DEMO_KEY")
+            viewModel.scanForAsteroids("BrPqQSWaM392cj4Cto4AYf0bBDuUVgLmTTnR0Ws3")
         }
 
         viewModel.uiState.observe(this) { state ->
